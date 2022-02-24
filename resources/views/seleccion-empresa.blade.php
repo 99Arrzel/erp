@@ -26,7 +26,7 @@
                             </div>
                             <div class="col">
                                 <button type="button" class="btn btn-success form-control" data-bs-toggle="modal"
-                                    onclick="seleccionarCrear()" data-bs-target="#modalempresa">Nueva Empresa</button>
+                                    onclick="seleccionarCrear()" data-bs-target="#modalempresa">Nuevaaa Empresa</button>
                                     <span class="btn-outline-success" data-feather="plus-square"></span>
                             </div>
                         </div>
